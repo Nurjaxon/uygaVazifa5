@@ -48,6 +48,15 @@
 
 
 
+function isPalindrom (text) {
+    let noThing = true
+    for (let i = 0; i < text.length / 2; i++) {
+       if (text[i] !== text[text.length - i -1]) {
+        noThing = false
+       }
+    }
+    return noThing
+}console.log(isPalindrom('amma'))
 
 
 
