@@ -28,25 +28,7 @@
                   // uyga vazifa 2
 
 
-// function countVomels (firstName) {
-//     let summed =0
-//     for (let i = 0; i < firstName.length; i++)  {
-//         if(firstName[i] === 'a' || firstName[i] === 'o' || firstName[i] === 'e' || firstName[i] === 'i' || firstName[i] === 'u') {
-//             summed++
-//         } 
-
-//     }
-//     return summed
-// }
-// console.log(countVomels('Nurjaxon'))
-
-
-
-
-
-                     // uyga vazifa 3
-
-
+                  
 
 function isPalindrom (text) {
     let noThing = true
@@ -59,4 +41,24 @@ function isPalindrom (text) {
 }console.log(isPalindrom('amma'))
 
 
+
+
+
+
+
+                     // uyga vazifa 3
+
+
+
+// function countVomels (firstName) {
+//     let summed =0
+//     for (let i = 0; i < firstName.length; i++)  {
+//         if(firstName[i] === 'a' || firstName[i] === 'o' || firstName[i] === 'e' || firstName[i] === 'i' || firstName[i] === 'u') {
+//             summed++
+//         } 
+
+//     }
+//     return summed
+// }
+// console.log(countVomels('Nurjaxon'))
 
